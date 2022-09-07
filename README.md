@@ -37,3 +37,10 @@ The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern 
 | Mumbai          | Lokandwala        | 6 hours        |
 | Goa             | Baga Beach        | 2 hours        |
 | Vijaywada       | KankaDurga temple | 2 hours        |
+
+***
+# Pitchy Quote
+
+> This is the way to success
+> All power is within you;you can do anything and everything
+*swami vivekanada* 
