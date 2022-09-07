@@ -42,5 +42,7 @@ The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern 
 # Pitchy Quote
 
 > This is the way to success
-> All power is within you;you can do anything and everything
+
+> Love Knows no bargaining
+
 *swami vivekanada* 
