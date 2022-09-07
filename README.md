@@ -41,8 +41,8 @@ The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern 
 ***
 # Pitchy Quote
 
-> This is the way to success
+> This is the way to success.
 
-> Love Knows no bargaining
+> Love Knows no bargaining.
 
 *swami vivekanada* 
