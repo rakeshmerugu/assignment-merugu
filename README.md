@@ -46,3 +46,27 @@ The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern 
 > Love Knows no bargaining.
 
 *swami vivekanada* 
+
+***
+# code fencing
+[wordpress](https://www.bing.com/search?ptag=ICO-a2e86ae41b695d30&form=INCOH1&pc=1CAD&q=how%20to%20wordpress%20in%20stackflow)
+
+```
+$args = array(
+                'post_type' => 'post',
+                'posts_per_page' => $number,
+                'order' => $sort_by,
+                'orderby' => 'title',
+                'post_status' => 'publish',
+                'tag' => $tags,
+                'ignore_sticky_posts' => 1,
+                );
+ $args['tax_query'] =  array(
+                    array(
+                    'taxonomy' => 'post_format',
+                    'field' => 'slug',
+                    'terms' => 'post-format-video',
+                    ));
+ $query = new WP_Query($args);
+ ```
+[sort of wordpress](https://css-tricks.com/snippets/svg/svg-patterns/)
