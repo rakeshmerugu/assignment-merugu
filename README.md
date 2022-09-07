@@ -5,6 +5,6 @@ The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern 
 
 *** 
 # order list 
-Rajiv gandhi international airport
-Hyderabad Airport (HYD) to Mehdipatnam by BY BUS, TAXI, CAR OR TOWNCAR bus no is 249c
+1. Rajiv gandhi international airport
+2. Hyderabad Airport (HYD) to Mehdipatnam by BY BUS, TAXI, CAR OR TOWNCAR bus no is 249c
 
