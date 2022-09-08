@@ -9,6 +9,7 @@ The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern 
 2. Hyderabad rajiv gandi Airport (HYD) near by have one Salar Jung Museum it is distance between Airport and museum 12 km.
 3. In museum to airport have bus and taxs is avaiable
 
+# unorder list
 *  Hyderabad 
 *  Bangalore
 *  Delhi
